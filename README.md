@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Elif Sena Karahan (@esenak)
 - 👀 I’m interested in Data Science
-- 🌱 And i’m currently learning MySQL, MsSQL, Visual Studio Code and Python
+- 🌱 And i’m currently learning SQL and Python
